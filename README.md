@@ -1,5 +1,26 @@
 <!-- veigapunk-upstream-maintainers:start -->
-> **Upstream package maintainer contact(s):** [Maas Lalani (`maaslalani`)](https://github.com/maaslalani). Declared in the upstream release configuration.
+> **Upstream package maintainer contact(s):** Maas Lalani. Declared in the upstream release configuration.
+
+<details><summary>All contributors (16)</summary>
+
+- Maas Lalani ([`maaslalani`](https://github.com/maaslalani))
+- dependabot\[bot\] ([`dependabot[bot]`](https://github.com/dependabot%5Bbot%5D))
+- Carlos Alexandro Becker ([`caarlos0`](https://github.com/caarlos0))
+- Christian Rocha ([`meowgorithm`](https://github.com/meowgorithm))
+- Andrey Nering ([`andreynering`](https://github.com/andreynering))
+- Ayman Bagabas ([`aymanbagabas`](https://github.com/aymanbagabas))
+- Charm ([`charmcli`](https://github.com/charmcli))
+- bashbunni ([`bashbunni`](https://github.com/bashbunni))
+- isabel ([`isabelroses`](https://github.com/isabelroses))
+- Christophe Colombier ([`ccoVeille`](https://github.com/ccoVeille))
+- AoMe · 青目 ([`AlejandroSuero`](https://github.com/AlejandroSuero))
+- Code\_Zealot ([`CodeZea1ot`](https://github.com/CodeZea1ot))
+- João Pedro Veiga  ([`VeigaPunk`](https://github.com/VeigaPunk))
+- Tymoteusz Makowski ([`TymekDev`](https://github.com/TymekDev))
+- Vinicius Gomes ([`vinisilvag`](https://github.com/vinisilvag))
+- gaogao\_qwq ([`gaogao-qwq`](https://github.com/gaogao-qwq))
+
+</details>
 <!-- veigapunk-upstream-maintainers:end -->
 
 # Freeze
